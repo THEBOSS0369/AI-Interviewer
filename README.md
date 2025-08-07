@@ -2,6 +2,10 @@
 
 A modern, AI-powered voice bot for interview practice, built with Next.js, ChatGPT API, and OpenAI Whisper for speech recognition.
 
+## Screenshot
+<img width="1912" height="872" alt="image" src="https://github.com/user-attachments/assets/5d85c344-1ddb-4944-940c-1a7c31141286" />
+
+
 ## ✨ Features
 
 - 🎤 **Real-time Voice Input**: Speak your questions using OpenAI Whisper
