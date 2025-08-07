@@ -1,4 +1,4 @@
-# 100x Interview Voice Bot
+# AI Interview Voice Bot
 
 A modern, AI-powered voice bot for interview practice, built with Next.js, ChatGPT API, and OpenAI Whisper for speech recognition.
 
@@ -24,7 +24,7 @@ A modern, AI-powered voice bot for interview practice, built with Next.js, ChatG
 
    ```bash
    git clone <your-repo-url>
-   cd voicebot
+   cd AI-Interviewer
    ```
 
 2. **Install dependencies**
@@ -134,5 +134,3 @@ Edit the system prompt in `src/app/api/chat/route.ts` to customize the AI's pers
 This project is built for the 100x interview process.
 
 ---
-
-**Built with ❤️ for 100x Interview Process**

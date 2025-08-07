@@ -216,8 +216,8 @@ export default function VoiceBot() {
 
   const suggestedQuestions = [
     "What should we know about your life story?",
-    "What&apos;s your #1 superpower?",
-    "What are the top 3 areas you&apos;d like to grow in?",
+    "What is your #1 superpower?",
+    "What are the top 3 areas you would like to grow in?",
     "What misconception do your coworkers have about you?",
     "How do you push your boundaries and limits?",
     "Tell me about your technical background",
